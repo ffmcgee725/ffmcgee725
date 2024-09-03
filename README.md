@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-## About Me
+<h1 align='center'>About me 💭</h1>
+
 - ⌨️ Proficient in many different languages, mainly Typescript and Rust
 - 🔭 I’m currently working on [Archive Protocol](https://archiveprotocol.com/)
 - 🌱 I’m currently learning [Solidity](https://docs.soliditylang.org/en/v0.8.26/) → most work in private repos for now 🔐 to be open sourced soon 🔓
@@ -23,8 +24,13 @@
 <p align='center'>TailwindCSS | PostgreSQL | GraphQL | Bull</p>
 <p align='center'>Sentry | Kafka | Redis | Google Cloud Platform </p>
 
-## Top Languages
+<h1 align='center'>Top Languages 📝</h1>
+
+<div align='center'>
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffmcgee725&layout=compact)
+
+</div>
 
 <p>
   
@@ -34,4 +40,8 @@
 -->
 </p>
 
+<div align='center'>
+  
 Feel free to [shout at me](mailto:ffmcgee.eth@protonmail.com) if you want to collab! 🚀
+  
+</div>
