@@ -2,6 +2,13 @@
 
 <p align='center'>I am a Full Stack Software Engineer, specializing in Blockchain & Web3 Tech 💻 </p>
 
+
+<div align='center'"> 
+  
+<a href="https://gitroll.io/profile/uV3jdLaSIejh12AZ0TN3mG4eVhLY2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uV3jdLaSIejh12AZ0TN3mG4eVhLY2" alt="GitRoll Profile Badge" style="width: 50%; max-width: 300px; height: auto;"/></a>
+
+</div>
+
 <p align='center'>
 
 <a href="https://www.linkedin.com/in/jc-tavares/" target="_blank">
