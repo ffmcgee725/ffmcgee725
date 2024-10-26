@@ -31,8 +31,8 @@
 <p align='center'>TailwindCSS | PostgreSQL | GraphQL | Bull</p>
 <p align='center'>Sentry | Kafka | Redis | Google Cloud Platform </p>
 
-<h1 align='center'>Top Languages 📝</h1>
 <!--
+<h1 align='center'>Top Languages 📝</h1>
 <div align='center'>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffmcgee725&layout=compact)
 </div> 
