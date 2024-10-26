@@ -21,7 +21,7 @@
 <h1 align='center'>About me 💭</h1>
 
 - ⌨️ Proficient in many different languages, mainly Typescript and Rust
-- 🔭 I’m currently working on [Archive Protocol](https://archiveprotocol.com/)
+<!-- - 🔭 I’m currently working on [Archive Protocol](https://archiveprotocol.com/) -->
 - 🌱 I’m currently learning [Solidity](https://docs.soliditylang.org/en/v0.8.26/) → most work in private repos for now 🔐 to be open sourced soon 🔓
 - 🏋🏾‍♂️ Gym enthusiast
 - 🎛️ Drum and bass fanatic 🎧
@@ -32,13 +32,11 @@
 <p align='center'>Sentry | Kafka | Redis | Google Cloud Platform </p>
 
 <h1 align='center'>Top Languages 📝</h1>
-
+<!--
 <div align='center'>
-  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffmcgee725&layout=compact)
-
-</div>
-
+</div> 
+-->
 <p>
   
 <!--
