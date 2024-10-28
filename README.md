@@ -19,7 +19,9 @@
 </a>&nbsp;&nbsp;
 
 <h1 align='center'>About me 💭</h1>
+
 <!-- - 🔭 I’m currently working on [Archive Protocol](https://archiveprotocol.com/) -->
+
 - ⌨️ Proficient in many different languages, mainly Typescript and Rust
 - 🌱 I’m currently learning [Solidity](https://docs.soliditylang.org/en/v0.8.26/) → most work in private repos for now 🔐 to be open sourced soon 🔓
 - 🏋🏾‍♂️ Gym enthusiast
