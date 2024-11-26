@@ -24,7 +24,7 @@
 
 - ⌨️ Proficient in many different languages, mainly Typescript and Rust
 - 🦊 I’m currently working on [Metamask](https://metamask.io/)
-- 🔭 Also building on [OP_NET](https://opnet.org/), for [Stash Protocol](https://www.stashprotocol.xyz/)
+- 🔭 Also building on [OP_NET](https://opnet.org/) for [Stash Protocol](https://www.stashprotocol.xyz/)
 - 🏋🏾‍♂️ Gym enthusiast
 - 🎛️ Drum and bass fanatic 🎧
 - 🛠️ Some tools in my kit
