@@ -20,11 +20,11 @@
 
 <h1 align='center'>About me 💭</h1>
 
-<!-- - 🔭 I’m currently working on [Archive Protocol](https://archiveprotocol.com/) -->
 <!-- - 🌱 I’m currently learning [Solidity](https://docs.soliditylang.org/en/v0.8.26/) → most work in private repos for now 🔐 to be open sourced soon 🔓 -->
 
-- ⌨️ Proficient in many different languages, mainly Typescript and Rust https
-- 🔭 I’m currently building on [OP_NET](https://opnet.org/)
+- ⌨️ Proficient in many different languages, mainly Typescript and Rust
+- 🦊 I’m currently working on [Metamask](https://metamask.io/)
+- 🔭 Also building on [OP_NET](https://opnet.org/), for [Stash Protocol](https://www.stashprotocol.xyz/)
 - 🏋🏾‍♂️ Gym enthusiast
 - 🎛️ Drum and bass fanatic 🎧
 - 🛠️ Some tools in my kit
