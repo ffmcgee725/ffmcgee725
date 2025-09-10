@@ -4,8 +4,12 @@
 
 
 <div align='center'"> 
-  
+
+<img width="417" height="232" alt="Screenshot 2025-09-09 at 22 49 55" src="https://github.com/user-attachments/assets/3be68c25-3c25-4e71-83a5-bd3d6baa5a32" />
+
+<!--!
 <a href="https://gitroll.io/profile/uV3jdLaSIejh12AZ0TN3mG4eVhLY2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uV3jdLaSIejh12AZ0TN3mG4eVhLY2" alt="GitRoll Profile Badge" style="width: 50%; max-width: 300px; height: auto;"/></a>
+-->
 
 </div>
 
